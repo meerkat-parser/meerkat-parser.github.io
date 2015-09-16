@@ -34,13 +34,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="about.html">Download</a>
                     </li>
                     <li>
-                        <a href="services.html">Services</a>
+                        <a href="services.html">Getting Started</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.html">Documents</a>
                     </li>
                 </ul>
             </div>
