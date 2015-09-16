@@ -1,0 +1,10 @@
+body {
+    height: 100%;
+    width: 68%;
+    margin: 0 auto;
+}
+
+.carousel-caption {
+	left: 0;
+	right: 0;
+}
