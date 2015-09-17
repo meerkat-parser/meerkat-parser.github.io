@@ -1,14 +1,16 @@
-body {
-    height: 100%;
-    width: 1024px;
-    margin: 0 auto;
-}
 
+@media (min-width: 1024px){
 .container {
     width: 1024px;
 }
 
-.carousel-caption {
-	left: 0;
-	right: 0;
+.carousel-inner {
+	width: 1024px;
+	margin: 0 auto;
+}
+}
+
+body {
+	width: 1024px;
+	margin: 0 auto;
 }
