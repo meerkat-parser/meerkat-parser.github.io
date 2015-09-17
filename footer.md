@@ -5,7 +5,7 @@
 <footer>
     <div class="row">
         <div class="col-lg-12">
-            <p>Copyright &copy; The Meerkat developers 2015</p>
+            <p>&copy; 2015, The Meerkat developers.</p>
         </div>
     </div>
 </footer>

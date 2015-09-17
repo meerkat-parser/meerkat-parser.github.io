@@ -16,15 +16,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <div class="fill" style="background-image:url('images/meerkat.jpg');background-size:cover;"></div>
+            <div class="fill" style="background-image:url('images/meerkat3.jpg');background-size:cover;"></div>
             <div class="carousel-caption"></div>
         </div>
         <div class="item">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
+            <div class="fill" style="background-image:url('images/meerkat1.png');background-size:cover;"></div>
             <div class="carousel-caption"></div>
         </div>
         <div class="item">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+            <div class="fill" style="background-image:url('images/meerkat2.jpg');background-size:cover;"></div>
             <div class="carousel-caption"></div>
         </div>
     </div>
