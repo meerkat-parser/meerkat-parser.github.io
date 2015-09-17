@@ -1,7 +1,11 @@
 body {
     height: 100%;
-    width: 68%;
+    width: 1024px;
     margin: 0 auto;
+}
+
+.container {
+    width: 1024px;
 }
 
 .carousel-caption {
