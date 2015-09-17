@@ -27,11 +27,14 @@
                     <a href="{{ site.baseurl }}/examples.html">Examples</a>
                 </li>
                 <li>
+                    <a href="{{ site.baseurl }}/grammars.html">Grammars</a>
+                </li>                
+                <li>
                     <a href="{{ site.baseurl }}/contributors.html">Contributors</a>
                 </li>
                 <li>
-                	<a href=""></a>
-                </li>
+                    <a href="https://github.com/meerkat-parser/Meerkat"><img src="images/github-logo.png" style="width:20px;height:20px;"></a></a>
+                </li>                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
